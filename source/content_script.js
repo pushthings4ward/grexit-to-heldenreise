@@ -41,6 +41,7 @@ function handleText(textNode)
 	v = v.replace(/\b"Grexits"\b/g, "'Heldenreise'");
 	v = v.replace(/\beinen Grexit,\b/g, "eine Heldenreise,");
 	v = v.replace(/\bEinen Grexit,\b/g, "Eine Heldenreise,");
+	v = v.replace(/"/g, ""); //remove all quotes
 	
 	
 	textNode.nodeValue = v;
