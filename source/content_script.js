@@ -35,6 +35,13 @@ function handleText(textNode)
 	v = v.replace(/\bder Grexit\b/g, "die Heldenreise");
 	v = v.replace(/\bGREXIT\b/g, "die Heldenreise");
 	v = v.replace(/\bGrexit,\b/g, "die Heldenreise,");
+	v = v.replace(/\bGrexit\b/g, "Heldenreise");
+	v = v.replace(/\bein Grexit,\b/g, "eine Heldenreise");
+	v = v.replace(/\bEin Grexit,\b/g, "Eine Heldenreise");
+	v = v.replace(/\b"Grexits"\b/g, "'Heldenreise'");
+	v = v.replace(/\beinen Grexit,\b/g, "eine Heldenreise,");
+	v = v.replace(/\bEinen Grexit,\b/g, "Eine Heldenreise,");
+	
 	
 	textNode.nodeValue = v;
 }
