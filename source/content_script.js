@@ -33,8 +33,8 @@ function handleText(textNode)
 
 	v = v.replace(/\bden Grexit\b/g, "die Heldenreise");
 	v = v.replace(/\bder Grexit\b/g, "die Heldenreise");
-	// v = v.replace(/\bthe Cloud\b/g, "my Butt");
-	// v = v.replace(/\bthe cloud\b/g, "my butt");
+	v = v.replace(/\bGREXIT\b/g, "die Heldenreise");
+	v = v.replace(/\bGrexit,\b/g, "die Heldenreise,");
 	
 	textNode.nodeValue = v;
 }
