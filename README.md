@@ -4,7 +4,7 @@ Irgendwie klingt Grexit zu hart. Darum habe ich eine Google Chrome Extension geb
 
 #### Wie kann ich die Extension nutzen?
 
-* __1. Schritt:__ Google Chrome öffnen und folgende URL eintippen __chrome://extensions/__.
+* __1. Schritt:__ Google Chrome öffnen und folgende URL eintippen __chrome://extensions/__
 * __2. Schritt:__ Ziehe nun die Source.crx in den Browser. 
 
 
