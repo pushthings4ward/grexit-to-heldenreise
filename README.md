@@ -1,6 +1,6 @@
 ## Grexit-to-Heldenreise
 
-Irgendwie klingt Grexit zu hart. Darum habe ich eine Google Chrome Extension gebaut, die den Begriff Grexit durch Heldenreise ersetzt. Das klingt irgendwie freundlicher. 
+Der Begriff Grexit klingt irgendwie zu hart. Darum habe ich eine Google Chrome Extension gebaut, die den Begriff Grexit durch Heldenreise ersetzt. Das klingt irgendwie freundlicher. 
 
 #### Wie kann ich die Extension nutzen?
 
@@ -15,5 +15,5 @@ Irgendwie klingt Grexit zu hart. Darum habe ich eine Google Chrome Extension geb
 ![](source/img/beispiel.png)
 
 
-<br><br>
+
  Inspired by [the cloud-to-butt](https://github.com/panicsteve/cloud-to-butt)
