@@ -1,8 +1,8 @@
 {
 	"manifest_version": 2,
 	"name": "Grexit-to-Heldenreise",
-	"version": "0.1.2",
-	"description": "Grexit-to-Heldenreise",
+	"version": "0.1.3",
+	"description": "Grexit-to-Heldenreise ersetzt den Begriff Grexit durch Heldenreise. Made with ♥ by @pushthings4ward",
 	"content_scripts": 
 	[
 		{
